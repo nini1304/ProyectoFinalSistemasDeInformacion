@@ -1,0 +1,49 @@
+@font-face{
+    font-family: 'gera';
+    src: url(../fuentes/Dogmeal.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+    
+}
+
+body{
+     background:url(../imagenes/wallpapersito.png);
+}
+#dentalclinic{
+    color: white;
+}
+#barra{
+   background-color:deepskyblue;
+   
+}
+#cititulo{
+    color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#boton{
+    background-color: greenyellow;
+    color: black;  
+    margin-top: 20px;
+    border-color: greenyellow;
+}
+#reporte{
+    background-color: white;
+    
+}
+#chekpart{
+    background-color: white;
+}
+#tituloreporte{
+     color: cornflowerblue;
+    font-family: 'gera';
+    
+}
+#boton2{
+    background-color: orange;
+    color: black;  
+    margin-top: 20px;
+    border-color: orange;
+}
+
+

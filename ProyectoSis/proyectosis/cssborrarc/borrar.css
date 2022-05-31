@@ -1,0 +1,33 @@
+@font-face{
+    font-family: 'gera';
+    src: url(../fuentes/Dogmeal.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+    
+}
+
+body{
+     background:url(../imagenes/wallpapersito.png);
+}
+#dentalclinic{
+    color: white;
+}
+#barra{
+   background-color:deepskyblue;
+   
+}
+#boton{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+#cititulo{
+    color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#verificar{
+    width: 500px;
+}
+

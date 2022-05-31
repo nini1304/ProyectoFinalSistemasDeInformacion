@@ -1,0 +1,215 @@
+@font-face{
+    font-family: 'gera';
+    src: url(../fuentes/Dogmeal.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+    
+}
+
+body{
+      background:url(../imagenes/wallpapersito.png);
+}
+#dentalclinic{
+    color: white;
+}
+#barra{
+   background-color:deepskyblue;
+   
+}
+#formularioparte{
+    background-color: white;
+    margin-top: 110px;
+    
+}
+#d1titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d2titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d3titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d4titulo{
+     color: cornflowerblue;
+   
+    font-size: 30px;
+}
+#d5titulo{
+     color: cornflowerblue;
+   
+    font-size: 30px;
+}
+#d6titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d7titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d8titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d9titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d10titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d11titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d12titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d13titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d14titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d15titulo{
+     color: cornflowerblue;
+   
+    font-size: 30px;
+}
+#d16titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d17titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d18titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d19titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d20titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d21titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d22titulo{
+     color: cornflowerblue;
+   
+    font-size: 30px;
+}
+#d23titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d24titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d25titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d26titulo{
+     color: cornflowerblue;
+   
+    font-size: 30px;
+}
+#d27titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d28titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d29titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d30titulo{
+     color: cornflowerblue;
+   
+    font-size: 30px;
+}
+#d31titulo{
+     color: cornflowerblue;
+    
+    font-size: 30px;
+}
+#d32titulo{
+     color: cornflowerblue;
+   
+    font-size: 30px;
+}
+#cititulo{
+     
+    font-family: 'gera';
+    font-size: 30px;
+}
+#boton1{
+    background-color: greenyellow;
+    color: black;  
+   
+    border-color: greenyellow;
+     font-size: 20px;
+     margin-top: 30px;
+}
+#boton2{
+    background-color: orange;
+    color: black;  
+   
+    border-color: orange;
+    font-size: 20px;
+     margin-top: 30px;
+}
+#metitulo{
+    font-family: 'gera';
+    font-size: 30px;
+}
+#tituloprincipal{
+    margin-top: 90px;
+    margin-left: 140px;
+    font-family: 'gera';
+    font-size: 50px;
+}
+

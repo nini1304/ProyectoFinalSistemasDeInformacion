@@ -1,0 +1,55 @@
+@font-face{
+    font-family: 'gera';
+    src: url(../fuentes/Dogmeal.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+    
+}
+
+body{
+     background:url(../imagenes/wallpapersito.png);
+}
+#dentalclinic{
+    color: white;
+}
+#barra{
+   background-color:deepskyblue;
+}
+#titulotratamientos{
+     color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#titulograficos{
+     color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#TRtitulo{
+     color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#montotitulo{
+     color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#cititulo{
+    color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#boton1{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+#boton2{
+    background-color: orange;
+    color: black;  
+    
+    border-color: orange;
+}
+

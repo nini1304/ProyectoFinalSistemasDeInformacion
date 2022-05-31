@@ -1,0 +1,47 @@
+@font-face{
+    font-family: 'gera';
+    src: url(../fuentes/Dogmeal.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+    
+}
+
+body{
+     background:url(../imagenes/wallpapersito.png);
+}
+#parteformulario{
+    background-color: white;
+    width: 500px;
+}
+#dentalclinic{
+    color: white;
+}
+#barra{
+   background-color:deepskyblue;
+   
+}
+#tituloprincipal{
+    margin-top: 50px;
+    margin-left: 690px;
+    font-family: 'gera';
+    font-size: 50px;
+}
+#usuariotitulo{
+    color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+    
+}
+#passwordtitulo{
+    color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#boton{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+    
+}
+

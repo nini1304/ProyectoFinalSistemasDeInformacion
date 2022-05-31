@@ -1,0 +1,97 @@
+@font-face{
+    font-family: 'gera';
+    src: url(../fuentes/Dogmeal.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+    
+}
+
+#parteimagen{
+    margin-right: 10px;
+    margin-top: 200px;
+    
+}
+
+#dentalclinic{
+    color: white;
+}
+#barra{
+   background-color:deepskyblue;
+   
+}
+
+#carrusel2{
+    width: 800px;
+     
+}
+#boton1{
+    background-color: greenyellow;
+    color: black;  
+     
+    border-color: greenyellow;
+}
+#boton2{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+#boton3{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+#boton4{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+#boton5{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+#boton6{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+
+body{
+     background:url(../imagenes/chair.png);
+}
+#boton7{
+    background-color: greenyellow;
+    color: black;  
+    
+    border-color: greenyellow;
+}
+#infotitulo{
+     color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#menutitulo{
+     color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+#salirtitulo{
+    color: cornflowerblue;
+    font-family: 'gera';
+    font-size: 30px;
+}
+
+#card1{
+    border-color: orange;
+}
+#card2{
+    border-color: orange;
+}
+#card3{
+    border-color: orange;
+}
